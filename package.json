@@ -1,0 +1,19 @@
+{
+  "name": "gti700_applicatif_lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bara313/GTI700_Applicatif_Lab2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bara313/GTI700_Applicatif_Lab2/issues"
+  },
+  "homepage": "https://github.com/bara313/GTI700_Applicatif_Lab2#readme"
+}
